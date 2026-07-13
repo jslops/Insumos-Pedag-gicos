@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Insumos Pedagógicos",
+  "description": "Plataforma de supervisão e gestão de estoque de insumos pedagógicos com dashboard de métricas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
